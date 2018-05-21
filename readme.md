@@ -1,1 +1,2 @@
 # exercicio-git
+Erica Dantas
